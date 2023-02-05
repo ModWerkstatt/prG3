@@ -1,6 +1,6 @@
 function data()
 return { 
-	type = "ASSET_DEFAULT",
+	type = "ASSET_TRACK",
 	description = {
 		name = _("pr_g3 Asset Set"),			
 		description = _("Statische pr_g3 Lokomotiven.")
