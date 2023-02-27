@@ -34,6 +34,7 @@ return {
             ["pr_g3 Asset Set"] = "Preussische G 3, G 4.1, G 4.2 und G 4.3",
             ["Statische pr_g3 Lokomotiven."] = "Assets von den preussischen Güterzugloks.",
             ["pr_g3_assets"] = "preussiche Güterzuglok Assets",
+            ["pr_g3 als Asset"] = "Preussische Güterzugloks als Asset",
 
 		},
 		en = {
@@ -69,6 +70,7 @@ return {
             ["pr_g3 Asset Set"] = "Prussian G 3, G 4.1, G 4.2 and G 4.3",
             ["Statische pr_g3 Lokomotiven."] = "Assets of the prussian freight train engines.",
             ["pr_g3_assets"] = "Prussian freight train engines assets",
+            ["pr_g3 als Asset"] = "Prussian freight train engine as asset",
 
 		},
 	}
